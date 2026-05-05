@@ -1,5 +1,4 @@
-Student Performance Predictor
-A beginner-friendly Machine Learning project that predicts student marks based on study hours using Linear Regression. This project demonstrates the fundamentals of data analysis, model training, and visualization in Python.
+Student Performance Predictor – A beginner-friendly Machine Learning project that predicts student marks based on study hours using Linear Regression. This project demonstrates the fundamentals of data analysis, model training, and visualization in Python.
 
 📌 Overview
 
